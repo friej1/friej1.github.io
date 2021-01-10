@@ -1,5 +1,6 @@
 body {
-  background-image: url('spirograph.png');
+  /* background-image: url('spirograph.png'); */
+  background-color: coral;
 }
 
 h1 {

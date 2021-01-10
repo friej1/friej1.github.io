@@ -1,0 +1,32 @@
+
+/***************** tag selectors *************/
+h1     {
+  color: purple;
+}
+
+h3 {
+  color: #a742f5;
+}
+
+/*
+img {
+  background-color: #b642f5;
+}
+*/
+
+/******************** class selectors may have multiple uses *************/
+.eggplant {
+  background-color: #b642f5;
+}
+
+.circular {
+  clip-path: circle(50% at 50% 50%);
+}
+
+/******************* id selectors must be unique *****************/
+/*
+#broccoli {
+  background-color: blue;
+  color: white;
+}
+*/
