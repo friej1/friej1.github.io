@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #c6ebc9;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-top: 0;
+}
+
+.top-container {
+  padding-top: 100px;
+  font-family: 'Fraunces', serif;
+}
+
+.middle-container {
+  position: static;
+}
+
+.bottom-container {
+  position: static;
+}
+
+.top-cloud {
+  position: absolute;
+  margin-left: 250px;
+}
+
+.lower-cloud {
+  position: absolute;
+  margin-left: 50px;
+}

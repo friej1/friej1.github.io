@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  background-color: #312c51;
+  text-align: center;
+
+}
+
+
+
+h1 {
+  margin: 0 auto;
+}
+
+.cubes {
+  height: 100px;
+  width: 100px;
+  margin-top: 0;
+  margin-bottom:0;
+}
+
+.top_c {
+  background-color: red;
+  /*border: 10px;
+  padding: 20px;
+   border-style: solid;
+  margin-left: 20px; */
+  position: absolute;
+  left:200px;
+  top:200px;
+}
+
+.middle_c {
+  background-color: blue;
+    /* border: 20px;
+  border-style: solid;
+  margin: 0 auto; */
+  position: absolute;
+  left:100px;
+  top:100px;
+
+}
+
+.bottom_c {
+  background-color: yellow;
+  /* border: 10px;
+  border-style: solid;
+  margin-left: 515px; */
+  position: absolute;
+  left:0 px;
+  top: 0px;
+}
+
+/* absolute position is relative to the parent element, static layout location disappears
+   relative position is relative to the static layout location of the element, static position is empty-occupied
+   fixed position is relative to the viewport not the page, does not disappear during scrolling.
+   often used for nav bar or side bar
+   */
