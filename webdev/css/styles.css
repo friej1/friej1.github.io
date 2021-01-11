@@ -5,8 +5,15 @@ body {
 }
 
 h1 {
-  font-size: 4rem;
   margin-top: 0;
+}
+
+.larger {
+  font-size: 2rem;
+}
+
+.very-large {
+  font-size: 4rem;
 }
 
 .top-container {
